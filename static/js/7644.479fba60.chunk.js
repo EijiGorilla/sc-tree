@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksc_tree=self.webpackChunksc_tree||[]).push([[7644],{67644:(e,t,c)=>{c.r(t),c.d(t,{execute:()=>s});var n=c(31633),r=c(48045);function s(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{};const{unit:c}=t;let s=(0,r.fromGeometryToGXGeometry)(e).calculateLength2D();const u=(0,r.getSpatialReference)(e);return s&&c&&u&&(s=(0,n.PQ)(s,u,c)),s}}}]);
+//# sourceMappingURL=7644.479fba60.chunk.js.map
